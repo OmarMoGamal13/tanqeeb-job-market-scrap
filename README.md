@@ -1,2 +1,25 @@
-# tanqeeb-job-market-scrap
-End-to-end data pipeline &amp; Power BI dashboard for analyzing job market trends in Egypt via Tanqeeb.
+# Tanqeeb Data Jobs Market Analysis
+
+Short description
+
+[Dashboard Preview]
+
+## 📌 Project Overview
+
+## 🎯 Objectives
+
+## 🛠️ Tools & Technologies
+
+## 🔄 Project Workflow
+
+## 🐍 Web Scraping
+
+## 📊 Power BI Dashboard
+
+## 📈 Dashboard Sections
+
+## 📂 Project Structure
+
+## 🔍 Key Insights
+
+## 🚀 Future Improvements
